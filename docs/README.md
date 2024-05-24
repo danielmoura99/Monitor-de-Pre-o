@@ -4,6 +4,7 @@
 Este projeto utiliza um microcontrolador Arduino e a placa ESP32 para coletar e exibir dados de preços de ativos da bolsa de valores em tempo real.
 ![Descrição da Foto](/monitor2.jpg)
 
+<img src="docs/monitor2.jpg" alt="Descrição da Foto" width="500"/>
 ## Tecnologias Utilizadas
 - Arduino
 - ESP32(https://pt.aliexpress.com/item/1005006068580976.html)

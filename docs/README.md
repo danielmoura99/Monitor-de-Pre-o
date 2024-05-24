@@ -1,7 +1,7 @@
 
 # Sistema de Monitoramento de Preços em Tempo Real
 
-Este projeto utiliza um microcontrolador Arduino e a placa ESP32 para coletar e exibir dados de preços de ativos da bolsa de valores em tempo real.
+Este projeto utiliza a plataforma de hardware e software de código aberto Arduino e a placa com microcontrolador ESP32 para coletar e exibir dados de preços de ativos da bolsa de valores em tempo real.
 
 <img src="/monitor2.jpg" alt="Descrição da Foto" width="500"/>
 
